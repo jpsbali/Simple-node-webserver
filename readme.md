@@ -2,7 +2,7 @@
 
 ### You can run the sample like this
 
-`docker run -p 3000:3000 -e github='https://github.com/pmcdowell-okta/Simple-node-webserver.git' -it oktaadmin/dockertest`
+`docker run -p 3000:3000 -e github='https://github.com/jpsbali/Simple-node-webserver.git' -it oktaadmin/dockertest`
 
 This what the **JB Dockerfile** contains, nothing special.
 
