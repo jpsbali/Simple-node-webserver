@@ -4,7 +4,7 @@
 
 `docker run -p 3000:3000 -e github='https://github.com/pmcdowell-okta/Simple-node-webserver.git' -it oktaadmin/dockertest`
 
-This what the **Dockerfile** contains, nothing special.
+This what the ***Dockerfile*** contains, nothing special.
 
 ```
 FROM oktaadmin/awscli
