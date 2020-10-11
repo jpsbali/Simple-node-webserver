@@ -1,4 +1,4 @@
-FROM oktaadmin/awscli
+FROM centos:centos7.6.1810
 
 RUN echo "#!/bin/bash\n" > /startscript.sh
 RUN echo "mkdir github\n" >> /startscript.sh
